@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="589a3247-2ed2-49f3-8342-13abec79e934" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RZHQ3HIp0F1AvwZDrB6SVDGUNM" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\OLABODE JOSEPH\Desktop\WebApp\NodeApp" />
+      <recent name="C:\Users\OLABODE JOSEPH\Desktop\WebApp\NodeApp\routes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="589a3247-2ed2-49f3-8342-13abec79e934" name="Default Changelist" comment="" />
+      <created>1562498255738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562498255738</updated>
+      <workItem from="1562498257243" duration="1481000" />
+      <workItem from="1562499752824" duration="257000" />
+      <workItem from="1562500061986" duration="30000" />
+      <workItem from="1562501465292" duration="97000" />
+      <workItem from="1562597034954" duration="100000" />
+      <workItem from="1563188501145" duration="31000" />
+      <workItem from="1563849075395" duration="37000" />
+      <workItem from="1564397133688" duration="69000" />
+      <workItem from="1569867682597" duration="7409000" />
+      <workItem from="1570330652051" duration="3340000" />
+      <workItem from="1570354058624" duration="11876000" />
+      <workItem from="1570379685307" duration="846000" />
+      <workItem from="1570465318201" duration="1698000" />
+      <workItem from="1570472057939" duration="271000" />
+      <workItem from="1570473197408" duration="19505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
